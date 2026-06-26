@@ -2,8 +2,6 @@ import os
 from google import genai
 from google.genai import types
 
-# export GEMINI_API_KEY="AQ.Ab8RN6IIcs-Jpg_RgDJAIO_yPcSvOnkPOQqxOagzmQQVagVWfA"
-
 def generate(image_path):
     client = genai.Client(
         api_key=os.environ.get("GEMINI_API_KEY"),
