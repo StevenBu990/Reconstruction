@@ -1,6 +1,20 @@
 import os
+import json
 from google import genai
 from google.genai import types
+
+
+with open("prompts.json", "r") as f:
+    data = json.load(f)
+
+view = "view3"
+
+view_data = data["glass"][view]
+
+recon_prompt = "\n".join(
+    view_data["metadata"] +
+    view_data["reconstruction"]["prompt"]
+)
 
 def generate(image_path):
     client = genai.Client(
@@ -18,7 +32,7 @@ def generate(image_path):
                     mime_type="image/png",  # change if needed
                     data=image_bytes,
                 ),
-                types.Part.from_text(text= "Reconstruct the object as observed in the image.")
+                types.Part.from_text(text = recon_prompt)
             ],
         ),
     ]
@@ -34,8 +48,8 @@ def generate(image_path):
 
         elif part.inline_data:
             image = part.as_image()
-            image.save("Reconstruction_Baseline_Vase1.png")
+            image.save("run2ReconstructView3.png")
             print("✅ Reconstructed image saved as reconstructed2.png")
 
 if __name__ == "__main__":
-    generate("/Users/stevenbu/Desktop/vase1.png")
+    generate("/Users/stevenbu/Desktop/view3Input.png")

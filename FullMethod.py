@@ -1,6 +1,19 @@
 import os
+import json
 from google import genai
 from google.genai import types
+
+with open("prompts.json", "r") as f:
+    data = json.load(f)
+
+view = "view3"
+
+view_data = data["glass"][view]
+
+full_prompt = "\n".join(
+    view_data["metadata"] +
+    view_data["full_method"]["prompt"]
+)
 
 def generate(image_path):
     client = genai.Client(
@@ -18,10 +31,7 @@ def generate(image_path):
                     mime_type="image/png",  # change if needed
                     data=image_bytes,
                 ),
-                types.Part.from_text(text="The intent of this object is a vase." \
-                "It is an item that can be used to hold water and is typically used to hold plants or flowers." \
-                "A portion of the vase is fragmented off. I want you to reconstruct the prebroken image." \
-                "This view is directly looking at the vase the side from an angle.")
+                types.Part.from_text(text = full_prompt)
             ],
         ),
     ]
@@ -37,8 +47,8 @@ def generate(image_path):
 
         elif part.inline_data:
             image = part.as_image()
-            image.save("fullVaseView3.png")
+            image.save("run2GlassView3.png")
             print("✅ Reconstructed image saved as reconstructed1.png")
 
 if __name__ == "__main__":
-    generate("/Users/stevenbu/Desktop/vase3.png")
+    generate("/Users/stevenbu/Desktop/view3Input.png")
