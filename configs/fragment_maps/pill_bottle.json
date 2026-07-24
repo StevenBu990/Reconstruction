@@ -1,0 +1,10 @@
+{
+    "_comment": "All damage configs validated via check_fragment_adjacency.py --remove_set. piece_0=cap, piece_1/2/3/4/5/8/9/10/11=body, piece_6/7=base. Since this is a plain cylindrical shape without distinct anatomical parts, base vs body is a position-based split (bottom vs elsewhere) rather than a semantic part split like handle/spout on other objects.",
+    "base_rotation_euler_deg": [0.066, -1.349, -0.001],
+    "damage_configs": {
+        "base_simple": ["piece_6"],
+        "base_severe": ["piece_6", "piece_7"],
+        "body_simple": ["piece_5"],
+        "body_severe": ["piece_8"]
+    }
+}

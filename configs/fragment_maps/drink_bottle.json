@@ -1,0 +1,10 @@
+{
+    "_comment": "All damage configs validated via check_fragment_adjacency.py --remove_set. piece_0=base, piece_1/3/4/5/8/11=body, piece_2/6/7/9/10=neck (piece_2 is the mouth/drinking opening, no separate cap on this bottle type). body_severe uses piece_0 (base) as a different damage spot from body_simple's piece_5, following the established pattern for regions without a clean size progression.",
+    "base_rotation_euler_deg": [0.335, 0.018, 0.000],
+    "damage_configs": {
+        "body_simple": ["piece_5"],
+        "body_severe": ["piece_0"],
+        "neck_simple": ["piece_2"],
+        "neck_severe": ["piece_2", "piece_6", "piece_10"]
+    }
+}

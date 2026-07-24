@@ -1,0 +1,8 @@
+{
+    "views": [
+        {"id": 0, "name": "front", "rotation_euler_deg": [0, 0, 0]},
+        {"id": 1, "name": "right", "rotation_euler_deg": [0, 0, 90]},
+        {"id": 2, "name": "back",  "rotation_euler_deg": [0, 0, 180]},
+        {"id": 3, "name": "left",  "rotation_euler_deg": [0, 0, 270]}
+    ]
+}

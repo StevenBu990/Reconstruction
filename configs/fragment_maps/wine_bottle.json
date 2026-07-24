@@ -1,0 +1,10 @@
+{
+    "_comment": "All damage configs validated via check_fragment_adjacency.py --remove_set. piece_0=base+body, piece_1/3/4/8=body, piece_2/5=body closer to neck, piece_6/7=neck/pour opening, piece_9/10/11=smaller body pieces. Rotation computed via PCA (compute_base_rotation.py) - raw mesh already near Z-aligned, only a tiny correction needed.",
+    "base_rotation_euler_deg": [0.399, 0.373, 0.001],
+    "damage_configs": {
+        "body_simple": ["piece_3"],
+        "body_severe": ["piece_3", "piece_5"],
+        "neck_simple": ["piece_7"],
+        "neck_severe": ["piece_6", "piece_7"]
+    }
+}

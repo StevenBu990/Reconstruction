@@ -1,0 +1,10 @@
+{
+    "_comment": "All damage configs validated via check_fragment_adjacency.py --remove_set. piece_0=bowl/bottom, piece_1/3/6/7/9/10/11=rim, piece_2/5/8=handle, piece_4=neck, piece_8=handle+little rim. handle_simple/handle_severe and rim_simple/rim_severe are each two different single-piece damage spots, not an escalating size (consistent with wine_glass's approach for regions without a clean size progression). Rotation computed via PCA (compute_base_rotation.py) - this vase's raw mesh has its long axis along Y, not Z, unlike beer_bottle/wine_glass.",
+    "base_rotation_euler_deg": [88.468, -0.256, 0.263],
+    "damage_configs": {
+        "handle_simple": ["piece_5"],
+        "handle_severe": ["piece_8"],
+        "rim_simple": ["piece_10"],
+        "rim_severe": ["piece_3"]
+    }
+}

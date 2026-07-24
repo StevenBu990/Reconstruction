@@ -1,0 +1,10 @@
+{
+    "_comment": "All damage configs validated via check_fragment_adjacency.py --remove_set. piece_0/3=jewel, piece_1/2/4/5/6/7/8/9/10/11/12/13/14/15/16=ring band. jewel_simple/jewel_severe are two different single-piece damage spots, not an escalating size (consistent with wine_glass/vase's approach). band_simple/band_severe found to be valid despite non-adjacent piece numbering - piece numbering doesn't correspond to spatial position around the band.",
+    "base_rotation_euler_deg": [-0.445, 1.885, -0.007],
+    "damage_configs": {
+        "jewel_simple": ["piece_3"],
+        "jewel_severe": ["piece_0"],
+        "band_simple": ["piece_1", "piece_9"],
+        "band_severe": ["piece_1", "piece_2", "piece_9", "piece_14"]
+    }
+}

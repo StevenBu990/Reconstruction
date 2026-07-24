@@ -1,0 +1,14 @@
+{
+    "_comment": "Remaining 9 objects to resolve at target_piece_count=12. beer_bottle excluded - already completed on its original 8-piece instance.",
+    "objects": [
+        {"object_id": "bottle", "category": "Bottle", "object_hash": "1"},
+        {"object_id": "wine_glass", "category": "WineGlass", "object_hash": "2d89d2b3b6749a9d99fbba385cc0d41d"},
+        {"object_id": "vase", "category": "Vase", "object_hash": "1"},
+        {"object_id": "wine_bottle", "category": "WineBottle", "object_hash": "1c79735033726294724d5ee7f09ab66b"},
+        {"object_id": "spoon", "category": "Spoon", "object_hash": "1"},
+        {"object_id": "ring", "category": "Ring", "object_hash": "2b0b9efff714f07883a2aadcb43f06a6"},
+        {"object_id": "drink_bottle", "category": "DrinkBottle", "object_hash": "1ef68777bfdb7d6ba7a07ee616e34cd7"},
+        {"object_id": "drinking_utensil", "category": "DrinkingUtensil", "object_hash": "2e228ee528f0a7054212ff51b27f0221"},
+        {"object_id": "statue", "category": "Statue", "object_hash": "114aff55d9933650a83967b36ab91a2e"}
+    ]
+}

@@ -1,0 +1,2658 @@
+[
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "neck_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/beer_bottle/neck_simple/view_0",
+    "input_image": "outputs/beer_bottle/neck_simple/view_0/input.png",
+    "ground_truth_image": "outputs/beer_bottle/neck_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/neck_simple/view_0/metadata.json",
+    "generated_image": "outputs/beer_bottle/neck_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "neck_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/beer_bottle/neck_simple/view_1",
+    "input_image": "outputs/beer_bottle/neck_simple/view_1/input.png",
+    "ground_truth_image": "outputs/beer_bottle/neck_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/neck_simple/view_1/metadata.json",
+    "generated_image": "outputs/beer_bottle/neck_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "neck_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/beer_bottle/neck_simple/view_2",
+    "input_image": "outputs/beer_bottle/neck_simple/view_2/input.png",
+    "ground_truth_image": "outputs/beer_bottle/neck_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/neck_simple/view_2/metadata.json",
+    "generated_image": "outputs/beer_bottle/neck_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "neck_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/beer_bottle/neck_simple/view_3",
+    "input_image": "outputs/beer_bottle/neck_simple/view_3/input.png",
+    "ground_truth_image": "outputs/beer_bottle/neck_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/neck_simple/view_3/metadata.json",
+    "generated_image": "outputs/beer_bottle/neck_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "neck_severe",
+    "hidden_fragments": [
+      "piece_4",
+      "piece_5"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/beer_bottle/neck_severe/view_0",
+    "input_image": "outputs/beer_bottle/neck_severe/view_0/input.png",
+    "ground_truth_image": "outputs/beer_bottle/neck_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/neck_severe/view_0/metadata.json",
+    "generated_image": "outputs/beer_bottle/neck_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "neck_severe",
+    "hidden_fragments": [
+      "piece_4",
+      "piece_5"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/beer_bottle/neck_severe/view_1",
+    "input_image": "outputs/beer_bottle/neck_severe/view_1/input.png",
+    "ground_truth_image": "outputs/beer_bottle/neck_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/neck_severe/view_1/metadata.json",
+    "generated_image": "outputs/beer_bottle/neck_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "neck_severe",
+    "hidden_fragments": [
+      "piece_4",
+      "piece_5"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/beer_bottle/neck_severe/view_2",
+    "input_image": "outputs/beer_bottle/neck_severe/view_2/input.png",
+    "ground_truth_image": "outputs/beer_bottle/neck_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/neck_severe/view_2/metadata.json",
+    "generated_image": "outputs/beer_bottle/neck_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "neck_severe",
+    "hidden_fragments": [
+      "piece_4",
+      "piece_5"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/beer_bottle/neck_severe/view_3",
+    "input_image": "outputs/beer_bottle/neck_severe/view_3/input.png",
+    "ground_truth_image": "outputs/beer_bottle/neck_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/neck_severe/view_3/metadata.json",
+    "generated_image": "outputs/beer_bottle/neck_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "base_simple",
+    "hidden_fragments": [
+      "piece_6"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/beer_bottle/base_simple/view_0",
+    "input_image": "outputs/beer_bottle/base_simple/view_0/input.png",
+    "ground_truth_image": "outputs/beer_bottle/base_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/base_simple/view_0/metadata.json",
+    "generated_image": "outputs/beer_bottle/base_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "base_simple",
+    "hidden_fragments": [
+      "piece_6"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/beer_bottle/base_simple/view_1",
+    "input_image": "outputs/beer_bottle/base_simple/view_1/input.png",
+    "ground_truth_image": "outputs/beer_bottle/base_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/base_simple/view_1/metadata.json",
+    "generated_image": "outputs/beer_bottle/base_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "base_simple",
+    "hidden_fragments": [
+      "piece_6"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/beer_bottle/base_simple/view_2",
+    "input_image": "outputs/beer_bottle/base_simple/view_2/input.png",
+    "ground_truth_image": "outputs/beer_bottle/base_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/base_simple/view_2/metadata.json",
+    "generated_image": "outputs/beer_bottle/base_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "base_simple",
+    "hidden_fragments": [
+      "piece_6"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/beer_bottle/base_simple/view_3",
+    "input_image": "outputs/beer_bottle/base_simple/view_3/input.png",
+    "ground_truth_image": "outputs/beer_bottle/base_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/base_simple/view_3/metadata.json",
+    "generated_image": "outputs/beer_bottle/base_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "base_severe",
+    "hidden_fragments": [
+      "piece_0",
+      "piece_6",
+      "piece_7"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/beer_bottle/base_severe/view_0",
+    "input_image": "outputs/beer_bottle/base_severe/view_0/input.png",
+    "ground_truth_image": "outputs/beer_bottle/base_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/base_severe/view_0/metadata.json",
+    "generated_image": "outputs/beer_bottle/base_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "base_severe",
+    "hidden_fragments": [
+      "piece_0",
+      "piece_6",
+      "piece_7"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/beer_bottle/base_severe/view_1",
+    "input_image": "outputs/beer_bottle/base_severe/view_1/input.png",
+    "ground_truth_image": "outputs/beer_bottle/base_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/base_severe/view_1/metadata.json",
+    "generated_image": "outputs/beer_bottle/base_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "base_severe",
+    "hidden_fragments": [
+      "piece_0",
+      "piece_6",
+      "piece_7"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/beer_bottle/base_severe/view_2",
+    "input_image": "outputs/beer_bottle/base_severe/view_2/input.png",
+    "ground_truth_image": "outputs/beer_bottle/base_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/base_severe/view_2/metadata.json",
+    "generated_image": "outputs/beer_bottle/base_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "beer_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/BeerBottle/3f91158956ad7db0322747720d7d37e8/fractured_29",
+    "fragment_map_path": "configs/fragment_maps/beer_bottle.json",
+    "damage_config": "base_severe",
+    "hidden_fragments": [
+      "piece_0",
+      "piece_6",
+      "piece_7"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/beer_bottle/base_severe/view_3",
+    "input_image": "outputs/beer_bottle/base_severe/view_3/input.png",
+    "ground_truth_image": "outputs/beer_bottle/base_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/beer_bottle/base_severe/view_3/metadata.json",
+    "generated_image": "outputs/beer_bottle/base_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "stem_simple",
+    "hidden_fragments": [
+      "piece_1"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/wine_glass/stem_simple/view_0",
+    "input_image": "outputs/wine_glass/stem_simple/view_0/input.png",
+    "ground_truth_image": "outputs/wine_glass/stem_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/stem_simple/view_0/metadata.json",
+    "generated_image": "outputs/wine_glass/stem_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "stem_simple",
+    "hidden_fragments": [
+      "piece_1"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/wine_glass/stem_simple/view_1",
+    "input_image": "outputs/wine_glass/stem_simple/view_1/input.png",
+    "ground_truth_image": "outputs/wine_glass/stem_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/stem_simple/view_1/metadata.json",
+    "generated_image": "outputs/wine_glass/stem_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "stem_simple",
+    "hidden_fragments": [
+      "piece_1"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/wine_glass/stem_simple/view_2",
+    "input_image": "outputs/wine_glass/stem_simple/view_2/input.png",
+    "ground_truth_image": "outputs/wine_glass/stem_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/stem_simple/view_2/metadata.json",
+    "generated_image": "outputs/wine_glass/stem_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "stem_simple",
+    "hidden_fragments": [
+      "piece_1"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/wine_glass/stem_simple/view_3",
+    "input_image": "outputs/wine_glass/stem_simple/view_3/input.png",
+    "ground_truth_image": "outputs/wine_glass/stem_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/stem_simple/view_3/metadata.json",
+    "generated_image": "outputs/wine_glass/stem_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "stem_severe",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_10"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/wine_glass/stem_severe/view_0",
+    "input_image": "outputs/wine_glass/stem_severe/view_0/input.png",
+    "ground_truth_image": "outputs/wine_glass/stem_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/stem_severe/view_0/metadata.json",
+    "generated_image": "outputs/wine_glass/stem_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "stem_severe",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_10"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/wine_glass/stem_severe/view_1",
+    "input_image": "outputs/wine_glass/stem_severe/view_1/input.png",
+    "ground_truth_image": "outputs/wine_glass/stem_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/stem_severe/view_1/metadata.json",
+    "generated_image": "outputs/wine_glass/stem_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "stem_severe",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_10"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/wine_glass/stem_severe/view_2",
+    "input_image": "outputs/wine_glass/stem_severe/view_2/input.png",
+    "ground_truth_image": "outputs/wine_glass/stem_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/stem_severe/view_2/metadata.json",
+    "generated_image": "outputs/wine_glass/stem_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "stem_severe",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_10"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/wine_glass/stem_severe/view_3",
+    "input_image": "outputs/wine_glass/stem_severe/view_3/input.png",
+    "ground_truth_image": "outputs/wine_glass/stem_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/stem_severe/view_3/metadata.json",
+    "generated_image": "outputs/wine_glass/stem_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "rim_simple",
+    "hidden_fragments": [
+      "piece_9"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/wine_glass/rim_simple/view_0",
+    "input_image": "outputs/wine_glass/rim_simple/view_0/input.png",
+    "ground_truth_image": "outputs/wine_glass/rim_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/rim_simple/view_0/metadata.json",
+    "generated_image": "outputs/wine_glass/rim_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "rim_simple",
+    "hidden_fragments": [
+      "piece_9"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/wine_glass/rim_simple/view_1",
+    "input_image": "outputs/wine_glass/rim_simple/view_1/input.png",
+    "ground_truth_image": "outputs/wine_glass/rim_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/rim_simple/view_1/metadata.json",
+    "generated_image": "outputs/wine_glass/rim_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "rim_simple",
+    "hidden_fragments": [
+      "piece_9"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/wine_glass/rim_simple/view_2",
+    "input_image": "outputs/wine_glass/rim_simple/view_2/input.png",
+    "ground_truth_image": "outputs/wine_glass/rim_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/rim_simple/view_2/metadata.json",
+    "generated_image": "outputs/wine_glass/rim_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "rim_simple",
+    "hidden_fragments": [
+      "piece_9"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/wine_glass/rim_simple/view_3",
+    "input_image": "outputs/wine_glass/rim_simple/view_3/input.png",
+    "ground_truth_image": "outputs/wine_glass/rim_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/rim_simple/view_3/metadata.json",
+    "generated_image": "outputs/wine_glass/rim_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "rim_severe",
+    "hidden_fragments": [
+      "piece_7"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/wine_glass/rim_severe/view_0",
+    "input_image": "outputs/wine_glass/rim_severe/view_0/input.png",
+    "ground_truth_image": "outputs/wine_glass/rim_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/rim_severe/view_0/metadata.json",
+    "generated_image": "outputs/wine_glass/rim_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "rim_severe",
+    "hidden_fragments": [
+      "piece_7"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/wine_glass/rim_severe/view_1",
+    "input_image": "outputs/wine_glass/rim_severe/view_1/input.png",
+    "ground_truth_image": "outputs/wine_glass/rim_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/rim_severe/view_1/metadata.json",
+    "generated_image": "outputs/wine_glass/rim_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "rim_severe",
+    "hidden_fragments": [
+      "piece_7"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/wine_glass/rim_severe/view_2",
+    "input_image": "outputs/wine_glass/rim_severe/view_2/input.png",
+    "ground_truth_image": "outputs/wine_glass/rim_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/rim_severe/view_2/metadata.json",
+    "generated_image": "outputs/wine_glass/rim_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "wine_glass",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineGlass/2d89d2b3b6749a9d99fbba385cc0d41d/fractured_55",
+    "fragment_map_path": "configs/fragment_maps/wine_glass.json",
+    "damage_config": "rim_severe",
+    "hidden_fragments": [
+      "piece_7"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/wine_glass/rim_severe/view_3",
+    "input_image": "outputs/wine_glass/rim_severe/view_3/input.png",
+    "ground_truth_image": "outputs/wine_glass/rim_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/wine_glass/rim_severe/view_3/metadata.json",
+    "generated_image": "outputs/wine_glass/rim_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "handle_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/vase/handle_simple/view_0",
+    "input_image": "outputs/vase/handle_simple/view_0/input.png",
+    "ground_truth_image": "outputs/vase/handle_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/vase/handle_simple/view_0/metadata.json",
+    "generated_image": "outputs/vase/handle_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "handle_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/vase/handle_simple/view_1",
+    "input_image": "outputs/vase/handle_simple/view_1/input.png",
+    "ground_truth_image": "outputs/vase/handle_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/vase/handle_simple/view_1/metadata.json",
+    "generated_image": "outputs/vase/handle_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "handle_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/vase/handle_simple/view_2",
+    "input_image": "outputs/vase/handle_simple/view_2/input.png",
+    "ground_truth_image": "outputs/vase/handle_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/vase/handle_simple/view_2/metadata.json",
+    "generated_image": "outputs/vase/handle_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "handle_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/vase/handle_simple/view_3",
+    "input_image": "outputs/vase/handle_simple/view_3/input.png",
+    "ground_truth_image": "outputs/vase/handle_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/vase/handle_simple/view_3/metadata.json",
+    "generated_image": "outputs/vase/handle_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "handle_severe",
+    "hidden_fragments": [
+      "piece_8"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/vase/handle_severe/view_0",
+    "input_image": "outputs/vase/handle_severe/view_0/input.png",
+    "ground_truth_image": "outputs/vase/handle_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/vase/handle_severe/view_0/metadata.json",
+    "generated_image": "outputs/vase/handle_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "handle_severe",
+    "hidden_fragments": [
+      "piece_8"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/vase/handle_severe/view_1",
+    "input_image": "outputs/vase/handle_severe/view_1/input.png",
+    "ground_truth_image": "outputs/vase/handle_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/vase/handle_severe/view_1/metadata.json",
+    "generated_image": "outputs/vase/handle_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "handle_severe",
+    "hidden_fragments": [
+      "piece_8"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/vase/handle_severe/view_2",
+    "input_image": "outputs/vase/handle_severe/view_2/input.png",
+    "ground_truth_image": "outputs/vase/handle_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/vase/handle_severe/view_2/metadata.json",
+    "generated_image": "outputs/vase/handle_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "handle_severe",
+    "hidden_fragments": [
+      "piece_8"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/vase/handle_severe/view_3",
+    "input_image": "outputs/vase/handle_severe/view_3/input.png",
+    "ground_truth_image": "outputs/vase/handle_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/vase/handle_severe/view_3/metadata.json",
+    "generated_image": "outputs/vase/handle_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "rim_simple",
+    "hidden_fragments": [
+      "piece_10"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/vase/rim_simple/view_0",
+    "input_image": "outputs/vase/rim_simple/view_0/input.png",
+    "ground_truth_image": "outputs/vase/rim_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/vase/rim_simple/view_0/metadata.json",
+    "generated_image": "outputs/vase/rim_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "rim_simple",
+    "hidden_fragments": [
+      "piece_10"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/vase/rim_simple/view_1",
+    "input_image": "outputs/vase/rim_simple/view_1/input.png",
+    "ground_truth_image": "outputs/vase/rim_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/vase/rim_simple/view_1/metadata.json",
+    "generated_image": "outputs/vase/rim_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "rim_simple",
+    "hidden_fragments": [
+      "piece_10"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/vase/rim_simple/view_2",
+    "input_image": "outputs/vase/rim_simple/view_2/input.png",
+    "ground_truth_image": "outputs/vase/rim_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/vase/rim_simple/view_2/metadata.json",
+    "generated_image": "outputs/vase/rim_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "rim_simple",
+    "hidden_fragments": [
+      "piece_10"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/vase/rim_simple/view_3",
+    "input_image": "outputs/vase/rim_simple/view_3/input.png",
+    "ground_truth_image": "outputs/vase/rim_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/vase/rim_simple/view_3/metadata.json",
+    "generated_image": "outputs/vase/rim_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "rim_severe",
+    "hidden_fragments": [
+      "piece_3"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/vase/rim_severe/view_0",
+    "input_image": "outputs/vase/rim_severe/view_0/input.png",
+    "ground_truth_image": "outputs/vase/rim_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/vase/rim_severe/view_0/metadata.json",
+    "generated_image": "outputs/vase/rim_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "rim_severe",
+    "hidden_fragments": [
+      "piece_3"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/vase/rim_severe/view_1",
+    "input_image": "outputs/vase/rim_severe/view_1/input.png",
+    "ground_truth_image": "outputs/vase/rim_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/vase/rim_severe/view_1/metadata.json",
+    "generated_image": "outputs/vase/rim_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "rim_severe",
+    "hidden_fragments": [
+      "piece_3"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/vase/rim_severe/view_2",
+    "input_image": "outputs/vase/rim_severe/view_2/input.png",
+    "ground_truth_image": "outputs/vase/rim_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/vase/rim_severe/view_2/metadata.json",
+    "generated_image": "outputs/vase/rim_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "vase",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Vase/1/fractured_66",
+    "fragment_map_path": "configs/fragment_maps/vase.json",
+    "damage_config": "rim_severe",
+    "hidden_fragments": [
+      "piece_3"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/vase/rim_severe/view_3",
+    "input_image": "outputs/vase/rim_severe/view_3/input.png",
+    "ground_truth_image": "outputs/vase/rim_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/vase/rim_severe/view_3/metadata.json",
+    "generated_image": "outputs/vase/rim_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_3"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/wine_bottle/body_simple/view_0",
+    "input_image": "outputs/wine_bottle/body_simple/view_0/input.png",
+    "ground_truth_image": "outputs/wine_bottle/body_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/body_simple/view_0/metadata.json",
+    "generated_image": "outputs/wine_bottle/body_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_3"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/wine_bottle/body_simple/view_1",
+    "input_image": "outputs/wine_bottle/body_simple/view_1/input.png",
+    "ground_truth_image": "outputs/wine_bottle/body_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/body_simple/view_1/metadata.json",
+    "generated_image": "outputs/wine_bottle/body_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_3"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/wine_bottle/body_simple/view_2",
+    "input_image": "outputs/wine_bottle/body_simple/view_2/input.png",
+    "ground_truth_image": "outputs/wine_bottle/body_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/body_simple/view_2/metadata.json",
+    "generated_image": "outputs/wine_bottle/body_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_3"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/wine_bottle/body_simple/view_3",
+    "input_image": "outputs/wine_bottle/body_simple/view_3/input.png",
+    "ground_truth_image": "outputs/wine_bottle/body_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/body_simple/view_3/metadata.json",
+    "generated_image": "outputs/wine_bottle/body_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_3",
+      "piece_5"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/wine_bottle/body_severe/view_0",
+    "input_image": "outputs/wine_bottle/body_severe/view_0/input.png",
+    "ground_truth_image": "outputs/wine_bottle/body_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/body_severe/view_0/metadata.json",
+    "generated_image": "outputs/wine_bottle/body_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_3",
+      "piece_5"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/wine_bottle/body_severe/view_1",
+    "input_image": "outputs/wine_bottle/body_severe/view_1/input.png",
+    "ground_truth_image": "outputs/wine_bottle/body_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/body_severe/view_1/metadata.json",
+    "generated_image": "outputs/wine_bottle/body_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_3",
+      "piece_5"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/wine_bottle/body_severe/view_2",
+    "input_image": "outputs/wine_bottle/body_severe/view_2/input.png",
+    "ground_truth_image": "outputs/wine_bottle/body_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/body_severe/view_2/metadata.json",
+    "generated_image": "outputs/wine_bottle/body_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_3",
+      "piece_5"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/wine_bottle/body_severe/view_3",
+    "input_image": "outputs/wine_bottle/body_severe/view_3/input.png",
+    "ground_truth_image": "outputs/wine_bottle/body_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/body_severe/view_3/metadata.json",
+    "generated_image": "outputs/wine_bottle/body_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "neck_simple",
+    "hidden_fragments": [
+      "piece_7"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/wine_bottle/neck_simple/view_0",
+    "input_image": "outputs/wine_bottle/neck_simple/view_0/input.png",
+    "ground_truth_image": "outputs/wine_bottle/neck_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/neck_simple/view_0/metadata.json",
+    "generated_image": "outputs/wine_bottle/neck_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "neck_simple",
+    "hidden_fragments": [
+      "piece_7"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/wine_bottle/neck_simple/view_1",
+    "input_image": "outputs/wine_bottle/neck_simple/view_1/input.png",
+    "ground_truth_image": "outputs/wine_bottle/neck_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/neck_simple/view_1/metadata.json",
+    "generated_image": "outputs/wine_bottle/neck_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "neck_simple",
+    "hidden_fragments": [
+      "piece_7"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/wine_bottle/neck_simple/view_2",
+    "input_image": "outputs/wine_bottle/neck_simple/view_2/input.png",
+    "ground_truth_image": "outputs/wine_bottle/neck_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/neck_simple/view_2/metadata.json",
+    "generated_image": "outputs/wine_bottle/neck_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "neck_simple",
+    "hidden_fragments": [
+      "piece_7"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/wine_bottle/neck_simple/view_3",
+    "input_image": "outputs/wine_bottle/neck_simple/view_3/input.png",
+    "ground_truth_image": "outputs/wine_bottle/neck_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/neck_simple/view_3/metadata.json",
+    "generated_image": "outputs/wine_bottle/neck_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "neck_severe",
+    "hidden_fragments": [
+      "piece_6",
+      "piece_7"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/wine_bottle/neck_severe/view_0",
+    "input_image": "outputs/wine_bottle/neck_severe/view_0/input.png",
+    "ground_truth_image": "outputs/wine_bottle/neck_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/neck_severe/view_0/metadata.json",
+    "generated_image": "outputs/wine_bottle/neck_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "neck_severe",
+    "hidden_fragments": [
+      "piece_6",
+      "piece_7"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/wine_bottle/neck_severe/view_1",
+    "input_image": "outputs/wine_bottle/neck_severe/view_1/input.png",
+    "ground_truth_image": "outputs/wine_bottle/neck_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/neck_severe/view_1/metadata.json",
+    "generated_image": "outputs/wine_bottle/neck_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "neck_severe",
+    "hidden_fragments": [
+      "piece_6",
+      "piece_7"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/wine_bottle/neck_severe/view_2",
+    "input_image": "outputs/wine_bottle/neck_severe/view_2/input.png",
+    "ground_truth_image": "outputs/wine_bottle/neck_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/neck_severe/view_2/metadata.json",
+    "generated_image": "outputs/wine_bottle/neck_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "wine_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/WineBottle/1c79735033726294724d5ee7f09ab66b/fractured_30",
+    "fragment_map_path": "configs/fragment_maps/wine_bottle.json",
+    "damage_config": "neck_severe",
+    "hidden_fragments": [
+      "piece_6",
+      "piece_7"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/wine_bottle/neck_severe/view_3",
+    "input_image": "outputs/wine_bottle/neck_severe/view_3/input.png",
+    "ground_truth_image": "outputs/wine_bottle/neck_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/wine_bottle/neck_severe/view_3/metadata.json",
+    "generated_image": "outputs/wine_bottle/neck_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "dispenser_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/bottle/dispenser_simple/view_0",
+    "input_image": "outputs/bottle/dispenser_simple/view_0/input.png",
+    "ground_truth_image": "outputs/bottle/dispenser_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/bottle/dispenser_simple/view_0/metadata.json",
+    "generated_image": "outputs/bottle/dispenser_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "dispenser_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/bottle/dispenser_simple/view_1",
+    "input_image": "outputs/bottle/dispenser_simple/view_1/input.png",
+    "ground_truth_image": "outputs/bottle/dispenser_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/bottle/dispenser_simple/view_1/metadata.json",
+    "generated_image": "outputs/bottle/dispenser_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "dispenser_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/bottle/dispenser_simple/view_2",
+    "input_image": "outputs/bottle/dispenser_simple/view_2/input.png",
+    "ground_truth_image": "outputs/bottle/dispenser_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/bottle/dispenser_simple/view_2/metadata.json",
+    "generated_image": "outputs/bottle/dispenser_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "dispenser_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/bottle/dispenser_simple/view_3",
+    "input_image": "outputs/bottle/dispenser_simple/view_3/input.png",
+    "ground_truth_image": "outputs/bottle/dispenser_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/bottle/dispenser_simple/view_3/metadata.json",
+    "generated_image": "outputs/bottle/dispenser_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "dispenser_severe",
+    "hidden_fragments": [
+      "piece_5",
+      "piece_3"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/bottle/dispenser_severe/view_0",
+    "input_image": "outputs/bottle/dispenser_severe/view_0/input.png",
+    "ground_truth_image": "outputs/bottle/dispenser_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/bottle/dispenser_severe/view_0/metadata.json",
+    "generated_image": "outputs/bottle/dispenser_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "dispenser_severe",
+    "hidden_fragments": [
+      "piece_5",
+      "piece_3"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/bottle/dispenser_severe/view_1",
+    "input_image": "outputs/bottle/dispenser_severe/view_1/input.png",
+    "ground_truth_image": "outputs/bottle/dispenser_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/bottle/dispenser_severe/view_1/metadata.json",
+    "generated_image": "outputs/bottle/dispenser_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "dispenser_severe",
+    "hidden_fragments": [
+      "piece_5",
+      "piece_3"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/bottle/dispenser_severe/view_2",
+    "input_image": "outputs/bottle/dispenser_severe/view_2/input.png",
+    "ground_truth_image": "outputs/bottle/dispenser_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/bottle/dispenser_severe/view_2/metadata.json",
+    "generated_image": "outputs/bottle/dispenser_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "dispenser_severe",
+    "hidden_fragments": [
+      "piece_5",
+      "piece_3"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/bottle/dispenser_severe/view_3",
+    "input_image": "outputs/bottle/dispenser_severe/view_3/input.png",
+    "ground_truth_image": "outputs/bottle/dispenser_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/bottle/dispenser_severe/view_3/metadata.json",
+    "generated_image": "outputs/bottle/dispenser_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_7"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/bottle/body_simple/view_0",
+    "input_image": "outputs/bottle/body_simple/view_0/input.png",
+    "ground_truth_image": "outputs/bottle/body_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/bottle/body_simple/view_0/metadata.json",
+    "generated_image": "outputs/bottle/body_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_7"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/bottle/body_simple/view_1",
+    "input_image": "outputs/bottle/body_simple/view_1/input.png",
+    "ground_truth_image": "outputs/bottle/body_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/bottle/body_simple/view_1/metadata.json",
+    "generated_image": "outputs/bottle/body_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_7"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/bottle/body_simple/view_2",
+    "input_image": "outputs/bottle/body_simple/view_2/input.png",
+    "ground_truth_image": "outputs/bottle/body_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/bottle/body_simple/view_2/metadata.json",
+    "generated_image": "outputs/bottle/body_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_7"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/bottle/body_simple/view_3",
+    "input_image": "outputs/bottle/body_simple/view_3/input.png",
+    "ground_truth_image": "outputs/bottle/body_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/bottle/body_simple/view_3/metadata.json",
+    "generated_image": "outputs/bottle/body_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_6",
+      "piece_7",
+      "piece_8"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/bottle/body_severe/view_0",
+    "input_image": "outputs/bottle/body_severe/view_0/input.png",
+    "ground_truth_image": "outputs/bottle/body_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/bottle/body_severe/view_0/metadata.json",
+    "generated_image": "outputs/bottle/body_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_6",
+      "piece_7",
+      "piece_8"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/bottle/body_severe/view_1",
+    "input_image": "outputs/bottle/body_severe/view_1/input.png",
+    "ground_truth_image": "outputs/bottle/body_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/bottle/body_severe/view_1/metadata.json",
+    "generated_image": "outputs/bottle/body_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_6",
+      "piece_7",
+      "piece_8"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/bottle/body_severe/view_2",
+    "input_image": "outputs/bottle/body_severe/view_2/input.png",
+    "ground_truth_image": "outputs/bottle/body_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/bottle/body_severe/view_2/metadata.json",
+    "generated_image": "outputs/bottle/body_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Bottle/1/fractured_61",
+    "fragment_map_path": "configs/fragment_maps/bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_6",
+      "piece_7",
+      "piece_8"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/bottle/body_severe/view_3",
+    "input_image": "outputs/bottle/body_severe/view_3/input.png",
+    "ground_truth_image": "outputs/bottle/body_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/bottle/body_severe/view_3/metadata.json",
+    "generated_image": "outputs/bottle/body_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "bowl_simple",
+    "hidden_fragments": [
+      "piece_0"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/spoon/bowl_simple/view_0",
+    "input_image": "outputs/spoon/bowl_simple/view_0/input.png",
+    "ground_truth_image": "outputs/spoon/bowl_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/spoon/bowl_simple/view_0/metadata.json",
+    "generated_image": "outputs/spoon/bowl_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "bowl_simple",
+    "hidden_fragments": [
+      "piece_0"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/spoon/bowl_simple/view_1",
+    "input_image": "outputs/spoon/bowl_simple/view_1/input.png",
+    "ground_truth_image": "outputs/spoon/bowl_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/spoon/bowl_simple/view_1/metadata.json",
+    "generated_image": "outputs/spoon/bowl_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "bowl_simple",
+    "hidden_fragments": [
+      "piece_0"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/spoon/bowl_simple/view_2",
+    "input_image": "outputs/spoon/bowl_simple/view_2/input.png",
+    "ground_truth_image": "outputs/spoon/bowl_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/spoon/bowl_simple/view_2/metadata.json",
+    "generated_image": "outputs/spoon/bowl_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "bowl_simple",
+    "hidden_fragments": [
+      "piece_0"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/spoon/bowl_simple/view_3",
+    "input_image": "outputs/spoon/bowl_simple/view_3/input.png",
+    "ground_truth_image": "outputs/spoon/bowl_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/spoon/bowl_simple/view_3/metadata.json",
+    "generated_image": "outputs/spoon/bowl_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "bowl_severe",
+    "hidden_fragments": [
+      "piece_0",
+      "piece_1",
+      "piece_5"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/spoon/bowl_severe/view_0",
+    "input_image": "outputs/spoon/bowl_severe/view_0/input.png",
+    "ground_truth_image": "outputs/spoon/bowl_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/spoon/bowl_severe/view_0/metadata.json",
+    "generated_image": "outputs/spoon/bowl_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "bowl_severe",
+    "hidden_fragments": [
+      "piece_0",
+      "piece_1",
+      "piece_5"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/spoon/bowl_severe/view_1",
+    "input_image": "outputs/spoon/bowl_severe/view_1/input.png",
+    "ground_truth_image": "outputs/spoon/bowl_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/spoon/bowl_severe/view_1/metadata.json",
+    "generated_image": "outputs/spoon/bowl_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "bowl_severe",
+    "hidden_fragments": [
+      "piece_0",
+      "piece_1",
+      "piece_5"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/spoon/bowl_severe/view_2",
+    "input_image": "outputs/spoon/bowl_severe/view_2/input.png",
+    "ground_truth_image": "outputs/spoon/bowl_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/spoon/bowl_severe/view_2/metadata.json",
+    "generated_image": "outputs/spoon/bowl_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "bowl_severe",
+    "hidden_fragments": [
+      "piece_0",
+      "piece_1",
+      "piece_5"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/spoon/bowl_severe/view_3",
+    "input_image": "outputs/spoon/bowl_severe/view_3/input.png",
+    "ground_truth_image": "outputs/spoon/bowl_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/spoon/bowl_severe/view_3/metadata.json",
+    "generated_image": "outputs/spoon/bowl_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "handle_simple",
+    "hidden_fragments": [
+      "piece_11"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/spoon/handle_simple/view_0",
+    "input_image": "outputs/spoon/handle_simple/view_0/input.png",
+    "ground_truth_image": "outputs/spoon/handle_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/spoon/handle_simple/view_0/metadata.json",
+    "generated_image": "outputs/spoon/handle_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "handle_simple",
+    "hidden_fragments": [
+      "piece_11"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/spoon/handle_simple/view_1",
+    "input_image": "outputs/spoon/handle_simple/view_1/input.png",
+    "ground_truth_image": "outputs/spoon/handle_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/spoon/handle_simple/view_1/metadata.json",
+    "generated_image": "outputs/spoon/handle_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "handle_simple",
+    "hidden_fragments": [
+      "piece_11"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/spoon/handle_simple/view_2",
+    "input_image": "outputs/spoon/handle_simple/view_2/input.png",
+    "ground_truth_image": "outputs/spoon/handle_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/spoon/handle_simple/view_2/metadata.json",
+    "generated_image": "outputs/spoon/handle_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "handle_simple",
+    "hidden_fragments": [
+      "piece_11"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/spoon/handle_simple/view_3",
+    "input_image": "outputs/spoon/handle_simple/view_3/input.png",
+    "ground_truth_image": "outputs/spoon/handle_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/spoon/handle_simple/view_3/metadata.json",
+    "generated_image": "outputs/spoon/handle_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "handle_severe",
+    "hidden_fragments": [
+      "piece_11",
+      "piece_12",
+      "piece_3"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/spoon/handle_severe/view_0",
+    "input_image": "outputs/spoon/handle_severe/view_0/input.png",
+    "ground_truth_image": "outputs/spoon/handle_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/spoon/handle_severe/view_0/metadata.json",
+    "generated_image": "outputs/spoon/handle_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "handle_severe",
+    "hidden_fragments": [
+      "piece_11",
+      "piece_12",
+      "piece_3"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/spoon/handle_severe/view_1",
+    "input_image": "outputs/spoon/handle_severe/view_1/input.png",
+    "ground_truth_image": "outputs/spoon/handle_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/spoon/handle_severe/view_1/metadata.json",
+    "generated_image": "outputs/spoon/handle_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "handle_severe",
+    "hidden_fragments": [
+      "piece_11",
+      "piece_12",
+      "piece_3"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/spoon/handle_severe/view_2",
+    "input_image": "outputs/spoon/handle_severe/view_2/input.png",
+    "ground_truth_image": "outputs/spoon/handle_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/spoon/handle_severe/view_2/metadata.json",
+    "generated_image": "outputs/spoon/handle_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "spoon",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Spoon/1/fractured_26",
+    "fragment_map_path": "configs/fragment_maps/spoon.json",
+    "damage_config": "handle_severe",
+    "hidden_fragments": [
+      "piece_11",
+      "piece_12",
+      "piece_3"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/spoon/handle_severe/view_3",
+    "input_image": "outputs/spoon/handle_severe/view_3/input.png",
+    "ground_truth_image": "outputs/spoon/handle_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/spoon/handle_severe/view_3/metadata.json",
+    "generated_image": "outputs/spoon/handle_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "jewel_simple",
+    "hidden_fragments": [
+      "piece_3"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/ring/jewel_simple/view_0",
+    "input_image": "outputs/ring/jewel_simple/view_0/input.png",
+    "ground_truth_image": "outputs/ring/jewel_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/ring/jewel_simple/view_0/metadata.json",
+    "generated_image": "outputs/ring/jewel_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "jewel_simple",
+    "hidden_fragments": [
+      "piece_3"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/ring/jewel_simple/view_1",
+    "input_image": "outputs/ring/jewel_simple/view_1/input.png",
+    "ground_truth_image": "outputs/ring/jewel_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/ring/jewel_simple/view_1/metadata.json",
+    "generated_image": "outputs/ring/jewel_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "jewel_simple",
+    "hidden_fragments": [
+      "piece_3"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/ring/jewel_simple/view_2",
+    "input_image": "outputs/ring/jewel_simple/view_2/input.png",
+    "ground_truth_image": "outputs/ring/jewel_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/ring/jewel_simple/view_2/metadata.json",
+    "generated_image": "outputs/ring/jewel_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "jewel_simple",
+    "hidden_fragments": [
+      "piece_3"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/ring/jewel_simple/view_3",
+    "input_image": "outputs/ring/jewel_simple/view_3/input.png",
+    "ground_truth_image": "outputs/ring/jewel_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/ring/jewel_simple/view_3/metadata.json",
+    "generated_image": "outputs/ring/jewel_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "jewel_severe",
+    "hidden_fragments": [
+      "piece_0"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/ring/jewel_severe/view_0",
+    "input_image": "outputs/ring/jewel_severe/view_0/input.png",
+    "ground_truth_image": "outputs/ring/jewel_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/ring/jewel_severe/view_0/metadata.json",
+    "generated_image": "outputs/ring/jewel_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "jewel_severe",
+    "hidden_fragments": [
+      "piece_0"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/ring/jewel_severe/view_1",
+    "input_image": "outputs/ring/jewel_severe/view_1/input.png",
+    "ground_truth_image": "outputs/ring/jewel_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/ring/jewel_severe/view_1/metadata.json",
+    "generated_image": "outputs/ring/jewel_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "jewel_severe",
+    "hidden_fragments": [
+      "piece_0"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/ring/jewel_severe/view_2",
+    "input_image": "outputs/ring/jewel_severe/view_2/input.png",
+    "ground_truth_image": "outputs/ring/jewel_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/ring/jewel_severe/view_2/metadata.json",
+    "generated_image": "outputs/ring/jewel_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "jewel_severe",
+    "hidden_fragments": [
+      "piece_0"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/ring/jewel_severe/view_3",
+    "input_image": "outputs/ring/jewel_severe/view_3/input.png",
+    "ground_truth_image": "outputs/ring/jewel_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/ring/jewel_severe/view_3/metadata.json",
+    "generated_image": "outputs/ring/jewel_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "band_simple",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_9"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/ring/band_simple/view_0",
+    "input_image": "outputs/ring/band_simple/view_0/input.png",
+    "ground_truth_image": "outputs/ring/band_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/ring/band_simple/view_0/metadata.json",
+    "generated_image": "outputs/ring/band_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "band_simple",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_9"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/ring/band_simple/view_1",
+    "input_image": "outputs/ring/band_simple/view_1/input.png",
+    "ground_truth_image": "outputs/ring/band_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/ring/band_simple/view_1/metadata.json",
+    "generated_image": "outputs/ring/band_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "band_simple",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_9"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/ring/band_simple/view_2",
+    "input_image": "outputs/ring/band_simple/view_2/input.png",
+    "ground_truth_image": "outputs/ring/band_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/ring/band_simple/view_2/metadata.json",
+    "generated_image": "outputs/ring/band_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "band_simple",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_9"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/ring/band_simple/view_3",
+    "input_image": "outputs/ring/band_simple/view_3/input.png",
+    "ground_truth_image": "outputs/ring/band_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/ring/band_simple/view_3/metadata.json",
+    "generated_image": "outputs/ring/band_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "band_severe",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_2",
+      "piece_9",
+      "piece_14"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/ring/band_severe/view_0",
+    "input_image": "outputs/ring/band_severe/view_0/input.png",
+    "ground_truth_image": "outputs/ring/band_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/ring/band_severe/view_0/metadata.json",
+    "generated_image": "outputs/ring/band_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "band_severe",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_2",
+      "piece_9",
+      "piece_14"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/ring/band_severe/view_1",
+    "input_image": "outputs/ring/band_severe/view_1/input.png",
+    "ground_truth_image": "outputs/ring/band_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/ring/band_severe/view_1/metadata.json",
+    "generated_image": "outputs/ring/band_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "band_severe",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_2",
+      "piece_9",
+      "piece_14"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/ring/band_severe/view_2",
+    "input_image": "outputs/ring/band_severe/view_2/input.png",
+    "ground_truth_image": "outputs/ring/band_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/ring/band_severe/view_2/metadata.json",
+    "generated_image": "outputs/ring/band_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "ring",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/Ring/2b0b9efff714f07883a2aadcb43f06a6/fractured_79",
+    "fragment_map_path": "configs/fragment_maps/ring.json",
+    "damage_config": "band_severe",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_2",
+      "piece_9",
+      "piece_14"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/ring/band_severe/view_3",
+    "input_image": "outputs/ring/band_severe/view_3/input.png",
+    "ground_truth_image": "outputs/ring/band_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/ring/band_severe/view_3/metadata.json",
+    "generated_image": "outputs/ring/band_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/drink_bottle/body_simple/view_0",
+    "input_image": "outputs/drink_bottle/body_simple/view_0/input.png",
+    "ground_truth_image": "outputs/drink_bottle/body_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/body_simple/view_0/metadata.json",
+    "generated_image": "outputs/drink_bottle/body_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/drink_bottle/body_simple/view_1",
+    "input_image": "outputs/drink_bottle/body_simple/view_1/input.png",
+    "ground_truth_image": "outputs/drink_bottle/body_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/body_simple/view_1/metadata.json",
+    "generated_image": "outputs/drink_bottle/body_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/drink_bottle/body_simple/view_2",
+    "input_image": "outputs/drink_bottle/body_simple/view_2/input.png",
+    "ground_truth_image": "outputs/drink_bottle/body_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/body_simple/view_2/metadata.json",
+    "generated_image": "outputs/drink_bottle/body_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/drink_bottle/body_simple/view_3",
+    "input_image": "outputs/drink_bottle/body_simple/view_3/input.png",
+    "ground_truth_image": "outputs/drink_bottle/body_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/body_simple/view_3/metadata.json",
+    "generated_image": "outputs/drink_bottle/body_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_0"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/drink_bottle/body_severe/view_0",
+    "input_image": "outputs/drink_bottle/body_severe/view_0/input.png",
+    "ground_truth_image": "outputs/drink_bottle/body_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/body_severe/view_0/metadata.json",
+    "generated_image": "outputs/drink_bottle/body_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_0"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/drink_bottle/body_severe/view_1",
+    "input_image": "outputs/drink_bottle/body_severe/view_1/input.png",
+    "ground_truth_image": "outputs/drink_bottle/body_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/body_severe/view_1/metadata.json",
+    "generated_image": "outputs/drink_bottle/body_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_0"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/drink_bottle/body_severe/view_2",
+    "input_image": "outputs/drink_bottle/body_severe/view_2/input.png",
+    "ground_truth_image": "outputs/drink_bottle/body_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/body_severe/view_2/metadata.json",
+    "generated_image": "outputs/drink_bottle/body_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_0"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/drink_bottle/body_severe/view_3",
+    "input_image": "outputs/drink_bottle/body_severe/view_3/input.png",
+    "ground_truth_image": "outputs/drink_bottle/body_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/body_severe/view_3/metadata.json",
+    "generated_image": "outputs/drink_bottle/body_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "neck_simple",
+    "hidden_fragments": [
+      "piece_2"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/drink_bottle/neck_simple/view_0",
+    "input_image": "outputs/drink_bottle/neck_simple/view_0/input.png",
+    "ground_truth_image": "outputs/drink_bottle/neck_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/neck_simple/view_0/metadata.json",
+    "generated_image": "outputs/drink_bottle/neck_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "neck_simple",
+    "hidden_fragments": [
+      "piece_2"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/drink_bottle/neck_simple/view_1",
+    "input_image": "outputs/drink_bottle/neck_simple/view_1/input.png",
+    "ground_truth_image": "outputs/drink_bottle/neck_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/neck_simple/view_1/metadata.json",
+    "generated_image": "outputs/drink_bottle/neck_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "neck_simple",
+    "hidden_fragments": [
+      "piece_2"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/drink_bottle/neck_simple/view_2",
+    "input_image": "outputs/drink_bottle/neck_simple/view_2/input.png",
+    "ground_truth_image": "outputs/drink_bottle/neck_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/neck_simple/view_2/metadata.json",
+    "generated_image": "outputs/drink_bottle/neck_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "neck_simple",
+    "hidden_fragments": [
+      "piece_2"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/drink_bottle/neck_simple/view_3",
+    "input_image": "outputs/drink_bottle/neck_simple/view_3/input.png",
+    "ground_truth_image": "outputs/drink_bottle/neck_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/neck_simple/view_3/metadata.json",
+    "generated_image": "outputs/drink_bottle/neck_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "neck_severe",
+    "hidden_fragments": [
+      "piece_2",
+      "piece_6",
+      "piece_10"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/drink_bottle/neck_severe/view_0",
+    "input_image": "outputs/drink_bottle/neck_severe/view_0/input.png",
+    "ground_truth_image": "outputs/drink_bottle/neck_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/neck_severe/view_0/metadata.json",
+    "generated_image": "outputs/drink_bottle/neck_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "neck_severe",
+    "hidden_fragments": [
+      "piece_2",
+      "piece_6",
+      "piece_10"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/drink_bottle/neck_severe/view_1",
+    "input_image": "outputs/drink_bottle/neck_severe/view_1/input.png",
+    "ground_truth_image": "outputs/drink_bottle/neck_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/neck_severe/view_1/metadata.json",
+    "generated_image": "outputs/drink_bottle/neck_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "neck_severe",
+    "hidden_fragments": [
+      "piece_2",
+      "piece_6",
+      "piece_10"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/drink_bottle/neck_severe/view_2",
+    "input_image": "outputs/drink_bottle/neck_severe/view_2/input.png",
+    "ground_truth_image": "outputs/drink_bottle/neck_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/neck_severe/view_2/metadata.json",
+    "generated_image": "outputs/drink_bottle/neck_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "drink_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkBottle/1ef68777bfdb7d6ba7a07ee616e34cd7/fractured_48",
+    "fragment_map_path": "configs/fragment_maps/drink_bottle.json",
+    "damage_config": "neck_severe",
+    "hidden_fragments": [
+      "piece_2",
+      "piece_6",
+      "piece_10"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/drink_bottle/neck_severe/view_3",
+    "input_image": "outputs/drink_bottle/neck_severe/view_3/input.png",
+    "ground_truth_image": "outputs/drink_bottle/neck_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/drink_bottle/neck_severe/view_3/metadata.json",
+    "generated_image": "outputs/drink_bottle/neck_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "spout_simple",
+    "hidden_fragments": [
+      "piece_8"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/drinking_utensil/spout_simple/view_0",
+    "input_image": "outputs/drinking_utensil/spout_simple/view_0/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/spout_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/spout_simple/view_0/metadata.json",
+    "generated_image": "outputs/drinking_utensil/spout_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "spout_simple",
+    "hidden_fragments": [
+      "piece_8"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/drinking_utensil/spout_simple/view_1",
+    "input_image": "outputs/drinking_utensil/spout_simple/view_1/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/spout_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/spout_simple/view_1/metadata.json",
+    "generated_image": "outputs/drinking_utensil/spout_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "spout_simple",
+    "hidden_fragments": [
+      "piece_8"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/drinking_utensil/spout_simple/view_2",
+    "input_image": "outputs/drinking_utensil/spout_simple/view_2/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/spout_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/spout_simple/view_2/metadata.json",
+    "generated_image": "outputs/drinking_utensil/spout_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "spout_simple",
+    "hidden_fragments": [
+      "piece_8"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/drinking_utensil/spout_simple/view_3",
+    "input_image": "outputs/drinking_utensil/spout_simple/view_3/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/spout_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/spout_simple/view_3/metadata.json",
+    "generated_image": "outputs/drinking_utensil/spout_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "spout_severe",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_2",
+      "piece_8",
+      "piece_14"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/drinking_utensil/spout_severe/view_0",
+    "input_image": "outputs/drinking_utensil/spout_severe/view_0/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/spout_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/spout_severe/view_0/metadata.json",
+    "generated_image": "outputs/drinking_utensil/spout_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "spout_severe",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_2",
+      "piece_8",
+      "piece_14"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/drinking_utensil/spout_severe/view_1",
+    "input_image": "outputs/drinking_utensil/spout_severe/view_1/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/spout_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/spout_severe/view_1/metadata.json",
+    "generated_image": "outputs/drinking_utensil/spout_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "spout_severe",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_2",
+      "piece_8",
+      "piece_14"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/drinking_utensil/spout_severe/view_2",
+    "input_image": "outputs/drinking_utensil/spout_severe/view_2/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/spout_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/spout_severe/view_2/metadata.json",
+    "generated_image": "outputs/drinking_utensil/spout_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "spout_severe",
+    "hidden_fragments": [
+      "piece_1",
+      "piece_2",
+      "piece_8",
+      "piece_14"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/drinking_utensil/spout_severe/view_3",
+    "input_image": "outputs/drinking_utensil/spout_severe/view_3/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/spout_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/spout_severe/view_3/metadata.json",
+    "generated_image": "outputs/drinking_utensil/spout_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "handle_simple",
+    "hidden_fragments": [
+      "piece_11"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/drinking_utensil/handle_simple/view_0",
+    "input_image": "outputs/drinking_utensil/handle_simple/view_0/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/handle_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/handle_simple/view_0/metadata.json",
+    "generated_image": "outputs/drinking_utensil/handle_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "handle_simple",
+    "hidden_fragments": [
+      "piece_11"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/drinking_utensil/handle_simple/view_1",
+    "input_image": "outputs/drinking_utensil/handle_simple/view_1/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/handle_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/handle_simple/view_1/metadata.json",
+    "generated_image": "outputs/drinking_utensil/handle_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "handle_simple",
+    "hidden_fragments": [
+      "piece_11"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/drinking_utensil/handle_simple/view_2",
+    "input_image": "outputs/drinking_utensil/handle_simple/view_2/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/handle_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/handle_simple/view_2/metadata.json",
+    "generated_image": "outputs/drinking_utensil/handle_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "handle_simple",
+    "hidden_fragments": [
+      "piece_11"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/drinking_utensil/handle_simple/view_3",
+    "input_image": "outputs/drinking_utensil/handle_simple/view_3/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/handle_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/handle_simple/view_3/metadata.json",
+    "generated_image": "outputs/drinking_utensil/handle_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "handle_severe",
+    "hidden_fragments": [
+      "piece_11",
+      "piece_13"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/drinking_utensil/handle_severe/view_0",
+    "input_image": "outputs/drinking_utensil/handle_severe/view_0/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/handle_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/handle_severe/view_0/metadata.json",
+    "generated_image": "outputs/drinking_utensil/handle_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "handle_severe",
+    "hidden_fragments": [
+      "piece_11",
+      "piece_13"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/drinking_utensil/handle_severe/view_1",
+    "input_image": "outputs/drinking_utensil/handle_severe/view_1/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/handle_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/handle_severe/view_1/metadata.json",
+    "generated_image": "outputs/drinking_utensil/handle_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "handle_severe",
+    "hidden_fragments": [
+      "piece_11",
+      "piece_13"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/drinking_utensil/handle_severe/view_2",
+    "input_image": "outputs/drinking_utensil/handle_severe/view_2/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/handle_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/handle_severe/view_2/metadata.json",
+    "generated_image": "outputs/drinking_utensil/handle_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "drinking_utensil",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/DrinkingUtensil/2e228ee528f0a7054212ff51b27f0221/fractured_77",
+    "fragment_map_path": "configs/fragment_maps/drinking_utensil.json",
+    "damage_config": "handle_severe",
+    "hidden_fragments": [
+      "piece_11",
+      "piece_13"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/drinking_utensil/handle_severe/view_3",
+    "input_image": "outputs/drinking_utensil/handle_severe/view_3/input.png",
+    "ground_truth_image": "outputs/drinking_utensil/handle_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/drinking_utensil/handle_severe/view_3/metadata.json",
+    "generated_image": "outputs/drinking_utensil/handle_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "base_simple",
+    "hidden_fragments": [
+      "piece_6"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/pill_bottle/base_simple/view_0",
+    "input_image": "outputs/pill_bottle/base_simple/view_0/input.png",
+    "ground_truth_image": "outputs/pill_bottle/base_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/base_simple/view_0/metadata.json",
+    "generated_image": "outputs/pill_bottle/base_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "base_simple",
+    "hidden_fragments": [
+      "piece_6"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/pill_bottle/base_simple/view_1",
+    "input_image": "outputs/pill_bottle/base_simple/view_1/input.png",
+    "ground_truth_image": "outputs/pill_bottle/base_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/base_simple/view_1/metadata.json",
+    "generated_image": "outputs/pill_bottle/base_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "base_simple",
+    "hidden_fragments": [
+      "piece_6"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/pill_bottle/base_simple/view_2",
+    "input_image": "outputs/pill_bottle/base_simple/view_2/input.png",
+    "ground_truth_image": "outputs/pill_bottle/base_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/base_simple/view_2/metadata.json",
+    "generated_image": "outputs/pill_bottle/base_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "base_simple",
+    "hidden_fragments": [
+      "piece_6"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/pill_bottle/base_simple/view_3",
+    "input_image": "outputs/pill_bottle/base_simple/view_3/input.png",
+    "ground_truth_image": "outputs/pill_bottle/base_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/base_simple/view_3/metadata.json",
+    "generated_image": "outputs/pill_bottle/base_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "base_severe",
+    "hidden_fragments": [
+      "piece_6",
+      "piece_7"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/pill_bottle/base_severe/view_0",
+    "input_image": "outputs/pill_bottle/base_severe/view_0/input.png",
+    "ground_truth_image": "outputs/pill_bottle/base_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/base_severe/view_0/metadata.json",
+    "generated_image": "outputs/pill_bottle/base_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "base_severe",
+    "hidden_fragments": [
+      "piece_6",
+      "piece_7"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/pill_bottle/base_severe/view_1",
+    "input_image": "outputs/pill_bottle/base_severe/view_1/input.png",
+    "ground_truth_image": "outputs/pill_bottle/base_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/base_severe/view_1/metadata.json",
+    "generated_image": "outputs/pill_bottle/base_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "base_severe",
+    "hidden_fragments": [
+      "piece_6",
+      "piece_7"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/pill_bottle/base_severe/view_2",
+    "input_image": "outputs/pill_bottle/base_severe/view_2/input.png",
+    "ground_truth_image": "outputs/pill_bottle/base_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/base_severe/view_2/metadata.json",
+    "generated_image": "outputs/pill_bottle/base_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "base_severe",
+    "hidden_fragments": [
+      "piece_6",
+      "piece_7"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/pill_bottle/base_severe/view_3",
+    "input_image": "outputs/pill_bottle/base_severe/view_3/input.png",
+    "ground_truth_image": "outputs/pill_bottle/base_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/base_severe/view_3/metadata.json",
+    "generated_image": "outputs/pill_bottle/base_severe/view_3/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/pill_bottle/body_simple/view_0",
+    "input_image": "outputs/pill_bottle/body_simple/view_0/input.png",
+    "ground_truth_image": "outputs/pill_bottle/body_simple/view_0/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/body_simple/view_0/metadata.json",
+    "generated_image": "outputs/pill_bottle/body_simple/view_0/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/pill_bottle/body_simple/view_1",
+    "input_image": "outputs/pill_bottle/body_simple/view_1/input.png",
+    "ground_truth_image": "outputs/pill_bottle/body_simple/view_1/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/body_simple/view_1/metadata.json",
+    "generated_image": "outputs/pill_bottle/body_simple/view_1/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/pill_bottle/body_simple/view_2",
+    "input_image": "outputs/pill_bottle/body_simple/view_2/input.png",
+    "ground_truth_image": "outputs/pill_bottle/body_simple/view_2/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/body_simple/view_2/metadata.json",
+    "generated_image": "outputs/pill_bottle/body_simple/view_2/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "body_simple",
+    "hidden_fragments": [
+      "piece_5"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/pill_bottle/body_simple/view_3",
+    "input_image": "outputs/pill_bottle/body_simple/view_3/input.png",
+    "ground_truth_image": "outputs/pill_bottle/body_simple/view_3/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/body_simple/view_3/metadata.json",
+    "generated_image": "outputs/pill_bottle/body_simple/view_3/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_8"
+    ],
+    "view_id": 0,
+    "view_name": "front",
+    "output_dir": "outputs/pill_bottle/body_severe/view_0",
+    "input_image": "outputs/pill_bottle/body_severe/view_0/input.png",
+    "ground_truth_image": "outputs/pill_bottle/body_severe/view_0/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/body_severe/view_0/metadata.json",
+    "generated_image": "outputs/pill_bottle/body_severe/view_0/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_8"
+    ],
+    "view_id": 1,
+    "view_name": "right",
+    "output_dir": "outputs/pill_bottle/body_severe/view_1",
+    "input_image": "outputs/pill_bottle/body_severe/view_1/input.png",
+    "ground_truth_image": "outputs/pill_bottle/body_severe/view_1/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/body_severe/view_1/metadata.json",
+    "generated_image": "outputs/pill_bottle/body_severe/view_1/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_8"
+    ],
+    "view_id": 2,
+    "view_name": "back",
+    "output_dir": "outputs/pill_bottle/body_severe/view_2",
+    "input_image": "outputs/pill_bottle/body_severe/view_2/input.png",
+    "ground_truth_image": "outputs/pill_bottle/body_severe/view_2/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/body_severe/view_2/metadata.json",
+    "generated_image": "outputs/pill_bottle/body_severe/view_2/generated.png"
+  },
+  {
+    "object_id": "pill_bottle",
+    "fragments_dir": "/Users/stevenbu/Desktop/Breaking-Bad-Dataset.github.io/everyday/PillBottle/6aba175c988c8bec9fac57ed2e044778/fractured_14",
+    "fragment_map_path": "configs/fragment_maps/pill_bottle.json",
+    "damage_config": "body_severe",
+    "hidden_fragments": [
+      "piece_8"
+    ],
+    "view_id": 3,
+    "view_name": "left",
+    "output_dir": "outputs/pill_bottle/body_severe/view_3",
+    "input_image": "outputs/pill_bottle/body_severe/view_3/input.png",
+    "ground_truth_image": "outputs/pill_bottle/body_severe/view_3/ground_truth.png",
+    "metadata_path": "outputs/pill_bottle/body_severe/view_3/metadata.json",
+    "generated_image": "outputs/pill_bottle/body_severe/view_3/generated.png"
+  }
+]

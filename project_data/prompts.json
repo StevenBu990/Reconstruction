@@ -1,0 +1,929 @@
+{
+  "teapot": {
+    "view1": {
+      "metadata": [
+        "Scene Metadata (View1):",
+        "Object Configuration:",
+        "Rotation (deg): X = 26.993, Y = 5.3623, Z = -38.922",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 1.000, Y = 0.987, Z = 0.730",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "1140 X 1048 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a teapot. It holds tea, and the handle is used to pour from the pot.",
+          "The handle is broken in the input image and must be reconstructed to complete the object.",
+          "",
+          "Object: Teapot View1",
+          "Fragment Type: handle",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing handle is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken teapot with a portion of the handle missing.",
+          "Generate ONLY the geometry of the missing handle needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Teapot View1",
+          "Fragment Type: handle",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    },
+
+    "view2": {
+      "metadata": [
+        "Scene Metadata (View2):",
+        "Object Configuration:",
+        "Rotation (deg): X = 20.531, Y = 3.3878, Z = -270.08",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 1.000, Y = 0.987, Z = 0.730",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "1140 X 1048 (all inputs are rendered at this resolution)",
+        ""
+      ],
+
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a teapot. It holds tea, and the handle is used to pour from the pot.",
+          "The handle is broken in the input image and must be reconstructed to complete the object.",
+          "",
+          "Object: Teapot View2",
+          "Fragment Type: handle",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing handle is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken teapot with a portion of the handle missing.",
+          "Generate ONLY the geometry of the missing handle needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Teapot View2",
+          "Fragment Type: handle",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    },
+
+    "view3": {
+      "metadata": [
+        "Scene Metadata (View3):",
+        "Object Configuration:",
+        "Rotation (deg): X = -35.838, Y = -40.54, Z = -198.84",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 1.000, Y = 0.987, Z = 0.730",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "1140 X 1048 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a teapot. It holds tea, and the handle is used to pour from the pot.",
+          "The handle is broken in the input image and must be reconstructed to complete the object.",
+          "",
+          "Object: Teapot View3",
+          "Fragment Type: handle",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing handle is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken teapot with a portion of the handle missing.",
+          "Generate ONLY the geometry of the missing handle needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Teapot View3",
+          "Fragment Type: handle",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    }
+  },
+
+  "mug": {
+    "view1": {
+      "metadata": [
+        "Scene Metadata (View1):",
+        "Object Configuration:",
+        "Rotation (deg): X = 140.29 deg, Y = 183.39 deg, Z = -292.9 deg",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 0.936m, Y = 0.672m, Z = 1m",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "882 X 866 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a mug. It holds liquid and can be drinken out of. The handle is used to hold the mug to drink from.",
+          "The handle is broken in the input image and must be reconstructed to complete the object.",
+          "",
+          "Object: Mug View1",
+          "Fragment Type: handle",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing handle is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken mug with a portion of the handle missing.",
+          "Generate ONLY the geometry of the missing handle needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Mug View1",
+          "Fragment Type: handle",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    },
+
+    "view2": {
+      "metadata": [
+        "Scene Metadata (View2):",
+        "Object Configuration:",
+        "Rotation (deg): X = -210.78 deg, Y = 152.5 deg, Z = -167.21 deg",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 0.936m, Y = 0.672m, Z = 1m",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "882 X 866 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a mug. It holds liquid and can be drinken out of. The handle is used to hold the mug to drink from.",
+          "The handle is broken in the input image and must be reconstructed to complete the object.",
+          "",
+          "Object: Mug View2",
+          "Fragment Type: handle",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing handle is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken mug with a portion of the handle missing.",
+          "Generate ONLY the geometry of the missing handle needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Mug View2",
+          "Fragment Type: handle",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    },
+
+    "view3": {
+      "metadata": [
+        "Scene Metadata (View3):",
+        "Object Configuration:",
+        "Rotation (deg): X = -20.626 deg, Y = 384.41 deg, Z = -472.2 deg",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 0.936m, Y = 0.672m, Z = 1m",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "882 X 866 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a mug. It holds liquid and can be drinken out of. The handle is used to hold the mug to drink from.",
+          "The handle is broken in the input image and must be reconstructed to complete the object.",
+          "",
+          "Object: Mug View3",
+          "Fragment Type: handle",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing handle is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken mug with a portion of the handle missing.",
+          "Generate ONLY the geometry of the missing handle needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Mug View3",
+          "Fragment Type: handle",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    }
+  },
+
+  "bowl": {
+    "view1": {
+      "metadata": [
+        "Scene Metadata (View1):",
+        "Object Configuration:",
+        "Rotation (deg): X = 210.67 deg, Y = 148.53 deg, Z = 214.16 deg",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 0.991m, Y = 1m, Z = 0.542m",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "882 X 866 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a bowl. It holds liquids and food and can be drinken or eaten out of.",
+          "The bowl is broken in the input image and must be reconstructed to complete the object.",
+          "",
+          "Object: Bowl View1",
+          "Fragment Type: bowl",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing bowl is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken bowl with a portion of the bowl missing.",
+          "Generate ONLY the geometry of the missing bowl needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Bowl View1",
+          "Fragment Type: bowl",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    },
+
+    "view2": {
+      "metadata": [
+        "Scene Metadata (View2):",
+        "Object Configuration:",
+        "Rotation (deg): X = 44.558 deg, Y = 225.26 deg, Z = 231.57 deg",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 0.991m, Y = 1m, Z = 0.542m",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "882 X 866 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a bowl. It holds liquids and food and can be drinken or eaten out of.",
+          "The bowl is broken in the input image and must be reconstructed to complete the object.",
+          "",
+          "Object: Bowl View2",
+          "Fragment Type: bowl",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing bowl is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken bowl with a portion of the bowl missing.",
+          "Generate ONLY the geometry of the missing bowl needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Bowl View2",
+          "Fragment Type: bowl",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    },
+
+    "view3": {
+      "metadata": [
+        "Scene Metadata (View3):",
+        "Object Configuration:",
+        "Rotation (deg): X = 27.743 deg, Y = 374.45 deg, Z = -276.65 deg",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 0.991m, Y = 1m, Z = 0.542m",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "882 X 866 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a bowl. It holds liquids and food and can be drinken or eaten out of.",
+          "The bowl is broken in the input image and must be reconstructed to complete the object.",
+          "",
+          "Object: Bowl View3",
+          "Fragment Type: bowl",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing bowl is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken bowl with a portion of the bowl missing.",
+          "Generate ONLY the geometry of the missing bowl needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Bowl View3",
+          "Fragment Type: bowl",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    }
+  },
+
+  "spoon": {
+    "view1": {
+      "metadata": [
+        "Scene Metadata (View1):",
+        "Object Configuration:",
+        "Rotation (deg): X = 26.326 deg, Y = -27.297 deg, Z = 77.215 deg",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 1m, Y = 0.497m, Z = 0.303m",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "1044 X 792 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a spoon. It is used as a utensil to drink soup and can hold liquids or food.",
+          "This spoon resembles a Chinese soup spoon as opposed to the traditional spoon and the bowl of the spoon is fragmented and must be reconstructed.",
+          "",
+          "Object: Spoon View1",
+          "Fragment Type: bowl",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing bowl is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken spoon with a portion of the bowl missing.",
+          "Generate ONLY the geometry of the missing bowl needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Spoon View1",
+          "Fragment Type: bowl",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    },
+
+    "view2": {
+      "metadata": [
+        "Scene Metadata (View2):",
+        "Object Configuration:",
+        "Rotation (deg): X = -15.947 deg, Y = 12.114 deg, Z = -132.21 deg",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 1m, Y = 0.497m, Z = 0.303m",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "1044 X 792 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a spoon. It is used as a utensil to drink soup and can hold liquids or food.",
+          "This spoon resembles a Chinese soup spoon as opposed to the traditional spoon and the bowl of the spoon is fragmented and must be reconstructed.",
+          "",
+          "Object: Spoon View2",
+          "Fragment Type: bowl",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing bowl is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken spoon with a portion of the bowl missing.",
+          "Generate ONLY the geometry of the missing bowl needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Spoon View2",
+          "Fragment Type: bowl",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    },
+
+    "view3": {
+      "metadata": [
+        "Scene Metadata (View3):",
+        "Object Configuration:",
+        "Rotation (deg): X = 72.261 deg, Y = -9.2103 deg, Z = -99.233 deg",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 1m, Y = 0.497m, Z = 0.303m",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "1044 X 792 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a spoon. It is used as a utensil to drink soup and can hold liquids or food.",
+          "This spoon resembles a Chinese soup spoon as opposed to the traditional spoon and the bowl of the spoon is fragmented and must be reconstructed.",
+          "This view is a bottom view, where I look at the spoon from the bottom.",
+          "",
+          "Object: Spoon View3",
+          "Fragment Type: bowl",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing bowl is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken spoon with a portion of the bowl missing.",
+          "Generate ONLY the geometry of the missing bowl needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Spoon View3",
+          "Fragment Type: bowl",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    }
+  },
+
+  "glass": {
+    "view1": {
+      "metadata": [
+        "Scene Metadata (View1):",
+        "Object Configuration:",
+        "Rotation (deg): X = 393.76 deg, Y = 27.977 deg, Z = -23.342 deg",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 0.523m, Y = 0.523m, Z = 1m",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "1080 X 988 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a wine glass. It is used to hold wine and is drinken out of.",
+          "This wine glass is fragmented at the base adn teh base must be reconstructed.",
+          "",
+          "Object: Glass View1",
+          "Fragment Type: base",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing bowl is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken wine glass with a portion of the base missing.",
+          "Generate ONLY the geometry of the missing bowl needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Wine Glass View1",
+          "Fragment Type: base",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    },
+
+    "view2": {
+      "metadata": [
+        "Scene Metadata (Vie1w2:",
+        "Object Configuration:",
+        "Rotation (deg): X = 316.19 deg, Y = 238.78 deg, Z = -181.45 deg",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 0.523m, Y = 0.523m, Z = 1m",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "1080 X 1068 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a wine glass. It is used to hold wine and is drinken out of.",
+          "This wine glass is fragmented at the base and the base must be reconstructed.",
+          "",
+          "Object: Glass View2",
+          "Fragment Type: base",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing bowl is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken wine glass with a portion of the base missing.",
+          "Generate ONLY the geometry of the missing bowl needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Wine Glass View2",
+          "Fragment Type: base",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    },
+
+    "view3": {
+      "metadata": [
+        "Scene Metadata (Vie1w2:",
+        "Object Configuration:",
+        "Rotation (deg): X = 358.34 deg, Y = 383.62 deg, Z = -700.37 deg",
+        "Scale: X = 1.000, Y = 1.000, Z = 1.000",
+        "Dimensions (m): X = 0.523m, Y = 0.523m, Z = 1m",
+        "",
+        "Camera Configuration:",
+        "Location (m): X = 7.3589, Y = -6.9258, Z = 4.9583",
+        "Rotation (deg): X = 63.559, Y = 0, Z = 46.692",
+        "",
+        "Image Resolution:",
+        "1080 X 1068 (all inputs are rendered at this resolution)",
+        ""
+      ],
+      "reconstruction": {
+        "task_name": "Reconstruction Baseline",
+        "prompt": [
+          "Reconstruct the object as observed in the input image, preserving its structure and viewpoint exactly as presented.",
+          "Do not modify or reinterpret the scene beyond what is visible in the input.",
+          "",
+          "Output Requirement:",
+          "Reconstruct the full observed object consistent with the input image."
+        ]
+      },
+
+      "full_method": {
+        "task_name": "Full Method Baseline",
+        "prompt": [
+          "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+          "The task is to generate a full reconstruction of the scene with the missing region restored.",
+          "",
+          "The intent of the object is a wine glass. It is used to hold wine and is drinken out of.",
+          "This wine glass is fragmented at the base and the base must be reconstructed.",
+          "",
+          "Object: Glass View3",
+          "Fragment Type: base",
+          "",
+          "Output Requirement:",
+          "Generate the fully repaired object consistent with the scale and viewpoint, ensuring the missing bowl is correctly restored."
+        ]
+      },
+
+      "vlm_repair": {
+        "task_name": "VLM Repair Baseline",
+        "prompt": [
+          "The image shows a broken wine glass with a portion of the base missing.",
+          "Generate ONLY the geometry of the missing bowl needed to repair the object.",
+          "Do not reconstruct the full object.",
+          "Output only the missing portion as a standalone reconstruction consistent with the visible geometry and viewpoint.",
+          "",
+          "Object: Wine Glass View3",
+          "Fragment Type: base",
+          "",
+          "Output Requirements:",
+          "Generate the missing repair piece only consistent with the scale and viewpoint"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+    "ramekin_cup_rim_simple": {
+        "part": "rim",
+        "description": "The rim is damaged and must be restored."
+    },
+    "ramekin_cup_rim_severe": {
+        "part": "rim",
+        "description": "A large section of the rim is missing and must be reconstructed."
+    },
+    "ramekin_cup_base_simple": {
+        "part": "base",
+        "description": "A small poriton of the base is damaged and must be restored."
+    },
+    "ramekin_cup_base_severe": {
+        "part": "base",
+        "description": "A large portion of the base is missing and must be reconstructed."
+    },
+
+    "teapot_handle_simple": {
+        "part": "handle",
+        "description": "The handle is fragmented and missing a piece, and must be restored."
+    },
+    "teapot_handle_severe": {
+        "part": "handle",
+        "description": "A large portion of the handle is missing and must be reconstructed."
+    },
+    "teapot_spout_simple": {
+        "part": "spout",
+        "description": "The spout is fragmented off and needs to be restored."
+    },
+    "teapot_spout_severe": {
+        "part": "spout",
+        "description": "The spout is entirely missing and needs to be reconstructed."
+    },
+
+    "mug_handle_simple": {
+        "part": "handle",
+        "description": "The handle is fragmented and missing a piece, and must be restored."
+    },
+    "mug_handle_severe": {
+        "part": "handle",
+        "description": "A large portion of the handle is missing and must be reconstructed."
+    },
+    "mug_rim_simple": {
+        "part": "rim",
+        "description": "The rim is damaged and must be restored."
+    },
+    "mug_rim_severe": {
+        "part": "rim",
+        "description": "A large section of the rim is missing and must be reconstructed."
+    },
+
+    "plate_rim_simple": {
+        "part": "rim",
+        "description": "The rim is damaged and must be restored."
+    },
+    "plate_rim_severe": {
+        "part": "rim",
+        "description": "A large section of the rim is missing and must be reconstructed."
+    },
+
+    "bowl_base_simple": {
+        "part": "base",
+        "description": "A small portion of the base is damaged and must be restored."
+    },
+    "bowl_base_severe": {
+        "part": "base",
+        "description": "A large portion of the base is missing and must be reconstructed."
+    },
+    "bowl_rim_simple": {
+        "part": "rim",
+        "description": "The rim is damaged and must be restored."
+    },
+    "bowl_rim_severe": {
+        "part": "rim",
+        "description": "A large section of the rim is missing and must be reconstructed."
+    },
+
+    "beer_bottle_neck_simple": {
+        "part": "neck",
+        "description": "The neck is fragmented and missing a piece, and must be restored."
+    },
+    "beer_bottle_neck_severe": {
+        "part": "neck",
+        "description": "A large portion of the neck is missing and must be reconstructed."
+    },
+    "beer_bottle_base_simple": {
+        "part": "base",
+        "description": "A small portion of the base is damaged and must be restored."
+    },
+    "beer_bottle_base_severe": {
+        "part": "base",
+        "description": "A large portion of the base is missing and must be reconstructed."
+    },
+
+    "wine_glass_stem_simple": {
+        "part": "stem",
+        "description": "The stem is fragmented and missing a piece, and must be restored."
+    },
+    "wine_glass_stem_severe": {
+        "part": "stem",
+        "description": "A large portion of the stem is missing and must be reconstructed."
+    },
+    "wine_glass_rim_simple": {
+        "part": "rim",
+        "description": "The rim is damaged and must be restored."
+    },
+    "wine_glass_rim_severe": {
+        "part": "rim",
+        "description": "A large section of the rim is missing and must be reconstructed."
+    },
+
+    "vase_handle_simple": {
+        "part": "handle",
+        "description": "The handle is fragmented and missing a piece, and must be restored."
+    },
+    "vase_handle_severe": {
+        "part": "handle",
+        "description": "A large portion of the handle is missing and must be reconstructed."
+    },
+    "vase_rim_simple": {
+        "part": "rim",
+        "description": "The rim is damaged and must be restored."
+    },
+    "vase_rim_severe": {
+        "part": "rim",
+        "description": "A large section of the rim is missing and must be reconstructed."
+    },
+
+    "wine_bottle_body_simple": {
+        "part": "body",
+        "description": "A small portion of the body is damaged and must be restored."
+    },
+    "wine_bottle_body_severe": {
+        "part": "body",
+        "description": "A large portion of the body is missing and must be reconstructed."
+    },
+    "wine_bottle_neck_simple": {
+        "part": "neck",
+        "description": "The neck is fragmented and missing a piece, and must be restored."
+    },
+    "wine_bottle_neck_severe": {
+        "part": "neck",
+        "description": "A large portion of the neck is missing and must be reconstructed."
+    },
+
+    "bottle_dispenser_simple": {
+        "part": "dispenser",
+        "description": "The dispenser is fragmented and missing a piece, and must be restored."
+    },
+    "bottle_dispenser_severe": {
+        "part": "dispenser",
+        "description": "The dispenser and a connecting portion of the body are missing and must be reconstructed."
+    },
+    "bottle_body_simple": {
+        "part": "body",
+        "description": "A small portion of the body is damaged and must be restored."
+    },
+    "bottle_body_severe": {
+        "part": "body",
+        "description": "A large portion of the body is missing and must be reconstructed."
+    },
+
+    "spoon_bowl_simple": {
+        "part": "bowl",
+        "description": "A small portion of the bowl is damaged and must be restored."
+    },
+    "spoon_bowl_severe": {
+        "part": "bowl",
+        "description": "A large portion of the bowl is missing and must be reconstructed."
+    },
+    "spoon_handle_simple": {
+        "part": "handle",
+        "description": "The handle is fragmented and missing a piece, and must be restored."
+    },
+    "spoon_handle_severe": {
+        "part": "handle",
+        "description": "A large portion of the handle is missing and must be reconstructed."
+    },
+
+    "ring_jewel_simple": {
+        "part": "jewel",
+        "description": "A small portion of the jewel is damaged and must be restored."
+    },
+    "ring_jewel_severe": {
+        "part": "jewel",
+        "description": "The jewel is missing and must be reconstructed."
+    },
+    "ring_band_simple": {
+        "part": "band",
+        "description": "A small section of the band is damaged and must be restored."
+    },
+    "ring_band_severe": {
+        "part": "band",
+        "description": "A large section of the band is missing and must be reconstructed."
+    },
+
+    "drink_bottle_body_simple": {
+        "part": "body",
+        "description": "A small portion of the body is damaged and must be restored."
+    },
+    "drink_bottle_body_severe": {
+        "part": "body",
+        "description": "A large portion of the body is missing and must be reconstructed."
+    },
+    "drink_bottle_neck_simple": {
+        "part": "neck",
+        "description": "The neck is fragmented and missing a piece, and must be restored."
+    },
+    "drink_bottle_neck_severe": {
+        "part": "neck",
+        "description": "A large portion of the neck is missing and must be reconstructed."
+    },
+
+    "drinking_utensil_spout_simple": {
+        "part": "spout",
+        "description": "The spout is fragmented off and needs to be restored."
+    },
+    "drinking_utensil_spout_severe": {
+        "part": "spout",
+        "description": "A large portion of the spout is missing and must be reconstructed."
+    },
+    "drinking_utensil_handle_simple": {
+        "part": "handle",
+        "description": "The handle is fragmented and missing a piece, and must be restored."
+    },
+    "drinking_utensil_handle_severe": {
+        "part": "handle",
+        "description": "A large portion of the handle is missing and must be reconstructed."
+    },
+
+    "pill_bottle_base_simple": {
+        "part": "base",
+        "description": "A small portion of the base is damaged and must be restored."
+    },
+    "pill_bottle_base_severe": {
+        "part": "base",
+        "description": "A large portion of the base is missing and must be reconstructed."
+    },
+    "pill_bottle_body_simple": {
+        "part": "body",
+        "description": "A small portion of the body is damaged and must be restored."
+    },
+    "pill_bottle_body_severe": {
+        "part": "body",
+        "description": "A large portion of the body is missing and must be reconstructed."
+    }
+}

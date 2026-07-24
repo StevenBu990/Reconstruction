@@ -1,0 +1,62 @@
+{
+    "ramekin_cup": {
+        "description": "Small ceramic container with an open top.",
+        "function": "Holds food or liquids and can be placed into an oven to bake."
+    },
+    "teapot": {
+        "description": "Vessel that holds tea and contains a handle, body, and spout.",
+        "function": "Holds tea and and is used to pour tea by holding the handle and pouring ouf of the spout."
+    }, 
+    "mug": {
+        "description": "Holds liquids and can be drinken out of and contains a body, rim, base, and handle.",
+        "function": "Holds liquids and can be drinken out of by holding onto the handle and drinking out of the open top."
+    },
+    "plate": {
+        "description": "Holds food and is used to be eaten from and contains a body, base, and rim.",
+        "function": "Holds food and solids and can be eaten from by holding the rim of the plate."
+    },
+    "bowl": {
+        "description": "Holds food and liquids and is used to be eaten from or drink soup out of and contains a body, base, and rim.",
+        "function": "Holds food and soups and can be eaten from or drinken from."
+    },
+    "beer_bottle": {
+        "description": "Holds carbonated or fermented beverages and is used to store, pour, and drink beer from; contains a body, neck, and cap/opening.",
+        "function": "Holds and dispenses beer, allowing it to be poured directly from the bottle or drunk from the neck opening."
+    },
+    "wine_glass": {
+        "description": "Stemmed glassware used for drinking wine; contains a bowl, stem, and rim.",
+        "function": "Holds wine and is used to drink from by holding the stem and sipping from the rim."
+    },
+    "vase": {
+        "description": "Decorative container typically used to hold flowers or as an ornamental piece; contains a body, handle(s), and rim.",
+        "function": "Holds flowers or serves as a decorative display piece, often filled with water and arranged stems."
+    },
+    "wine_bottle": {
+        "description": "Holds wine and is used to store, pour, and serve it; contains a body and neck/pour opening.",
+        "function": "Holds wine and allows it to be poured out through the neck opening."
+    },
+    "bottle": {
+        "description": "A condiment/mustard bottle used to store and dispense a liquid or paste condiment; contains a body and a dispenser tip.",
+        "function": "Holds a condiment and allows it to be squeezed out through the dispenser onto food."
+    },
+    "spoon": {
+        "description": "Eating utensil used to scoop and carry food or liquid to the mouth; contains a bowl and a handle.",
+        "function": "Used to scoop food or liquid by holding the handle and bringing the bowl to the mouth."
+    },
+    "ring": {
+        "description": "A piece of jewelry worn on the finger; contains a band and a jewel/setting.",
+        "function": "Worn on the finger as a decorative or symbolic accessory."
+    },
+    "drink_bottle": {
+        "description": "Reusable bottle used to carry and drink beverages; contains a body, base, and neck/mouth opening.",
+        "function": "Holds a beverage and is used to drink from by tilting the bottle and drinking through the neck opening."
+    },
+    "drinking_utensil": {
+        "description": "A kettle-like vessel used to hold and pour liquid; contains a body, base, lid, spout, and handle.",
+        "function": "Holds liquid and is used to pour it out through the spout by holding the handle, with the lid covering the top opening."
+    },
+    "pill_bottle": {
+        "description": "A cylindrical container used to store pills or medication; contains a body, base, and cap.",
+        "function": "Holds pills or medication, sealed by twisting the cap onto the body."
+    }
+}

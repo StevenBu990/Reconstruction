@@ -1,0 +1,10 @@
+{
+    "_comment": "All damage configs validated via check_fragment_adjacency.py. piece_1/10 = stem, piece_0 = bowl+bit of stem, piece_2/9/11 = pure rim, piece_5/6/7/8 = rim+bowl mix, piece_3/4 = bowl. rim_simple and rim_severe are two different single-piece damage spots (piece_9 vs piece_7), not an escalating size - this region didn't support a clean size progression.",
+    "base_rotation_euler_deg": [-1.767, -0.438, 0.007],
+    "damage_configs": {
+        "stem_simple": ["piece_1"],
+        "stem_severe": ["piece_1", "piece_10"],
+        "rim_simple": ["piece_9"],
+        "rim_severe": ["piece_7"]
+    }
+}

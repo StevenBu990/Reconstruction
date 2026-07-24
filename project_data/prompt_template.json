@@ -1,0 +1,39 @@
+{
+    "full_method": {
+        "task_name": "Full Method Baseline",
+
+        "prompt": [
+            "Reconstruct the missing part of the object in the input image and produce the complete reconstructed object.",
+            "The task is to generate a full reconstruction of the scene with the missing region restored.",
+            "",
+
+            "Object Information:",
+            "The object is a {object_name}.",
+            "{object_description}",
+            "{object_function}",
+
+            "",
+
+            "Damage Information:",
+            "The damaged component is the {damage_part}.",
+            "The damage severity is {damage_level}.",
+            "{damage_description}",
+
+            "",
+
+            "Object: {object_name} {view_name}",
+            "Fragment Type: {damage_part}",
+
+            "",
+
+            "View Information:",
+            "Preserve the original scale and viewpoint from the input image.",
+
+            "",
+
+            "Output Requirement:",
+            "Generate the fully repaired object consistent with the original geometry, scale, and viewpoint.",
+            "Ensure the missing {damage_part} is correctly restored."
+        ]
+    }
+}

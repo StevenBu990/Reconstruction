@@ -1,0 +1,10 @@
+{
+    "_comment": "All damage configs validated via check_fragment_adjacency.py. piece_0/1/2/5=bowl, piece_3/6/7/8/9/10/11/12=handle, piece_4=attachment between bowl and handle. handle_severe found via --seed piece_11 auto-search after the originally proposed piece_4+piece_11+piece_12 failed (those three weren't even mutually connected).",
+    "base_rotation_euler_deg": [166.574, 78.455, 163.592],
+    "damage_configs": {
+        "bowl_simple": ["piece_0"],
+        "bowl_severe": ["piece_0", "piece_1", "piece_5"],
+        "handle_simple": ["piece_11"],
+        "handle_severe": ["piece_11", "piece_12", "piece_3"]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "_comment": "Candidate views for the AI Viewing Judge experiment: normal view (0deg) through 180deg in 45deg increments, per meeting notes.",
+    "views": [
+        {"id": 0, "name": "0deg", "rotation_euler_deg": [0, 0, 0]},
+        {"id": 1, "name": "45deg", "rotation_euler_deg": [0, 0, 45]},
+        {"id": 2, "name": "90deg", "rotation_euler_deg": [0, 0, 90]},
+        {"id": 3, "name": "135deg", "rotation_euler_deg": [0, 0, 135]},
+        {"id": 4, "name": "180deg", "rotation_euler_deg": [0, 0, 180]}
+    ]
+}
