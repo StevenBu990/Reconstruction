@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+venv/
+.venv/
+conda_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Blender
+*.blend1
+*.blend2
+
+# Generated outputs
+results/
+outputs/
+renders/
+
+# Large data
+data/
+datasets/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# API keys
+.env
