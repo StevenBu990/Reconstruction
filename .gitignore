@@ -111,4 +111,6 @@ credentials.json
 # =========================
 # OS Generated
 # =========================
-.DS_Store
+.DS_Storeoutputs_judge_test/
+
+outputs_judge_test/
