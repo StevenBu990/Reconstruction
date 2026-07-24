@@ -1,38 +1,114 @@
+# =========================
 # Python
+# =========================
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
 
-# Environments
+# Virtual environments
 .env
+.env.*
 venv/
 .venv/
+env/
 conda_env/
 
 # Jupyter
 .ipynb_checkpoints/
 
-# OS
-.DS_Store
 
+# =========================
+# Operating System
+# =========================
+.DS_Store
+Thumbs.db
+
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+
+
+# =========================
 # Blender
+# =========================
 *.blend1
 *.blend2
+*.blend~
+*.blend@
 
-# Generated outputs
-results/
-outputs/
-renders/
 
-# Large data
+# =========================
+# CAD / 3D Files
+# =========================
+# Generated meshes
+*.stl
+*.obj
+*.ply
+*.fbx
+
+# CAD exports
+*.step
+*.stp
+*.iges
+*.igs
+
+
+# =========================
+# Data / Datasets
+# =========================
 data/
 datasets/
 
-# Model weights
+# Temporary downloaded files
+downloads/
+
+
+# =========================
+# Experiment Outputs
+# =========================
+results/
+outputs/
+renders/
+experiments/**/outputs/
+experiments/**/results/
+
+# Images generated during experiments
+generated_images/
+screenshots/
+
+
+# =========================
+# Machine Learning Models
+# =========================
 *.pth
 *.pt
 *.ckpt
+*.onnx
+*.h5
 
-# API keys
-.env
+
+# =========================
+# Logs / Temporary Files
+# =========================
+*.log
+logs/
+tmp/
+temp/
+
+
+# =========================
+# API Keys / Secrets
+# =========================
+*.key
+*.pem
+secrets/
+credentials.json
+
+
+# =========================
+# OS Generated
+# =========================
+.DS_Store
